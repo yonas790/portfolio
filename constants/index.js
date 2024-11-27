@@ -229,7 +229,7 @@ const experiences = [
     date: "May 2023 - Present",
     points: [
       "Conducted workshops and mentorship sessions on JavaScript, React, and backend development.",
-      "Helped peers and juniors troubleshoot issues in coding projects, emphasizing problem-solving techniques.",
+      "Helped peers troubleshoot issues in coding projects, emphasizing problem-solving techniques.",
       "Explained complex concepts in simple terms, fostering a collaborative and learning-focused environment.",
       "Encouraged knowledge sharing and team discussions to promote innovation and creativity.",
     ],
@@ -242,7 +242,7 @@ const experiences = [
     date: "September 2022 - Present",
     points: [
       "Gained a solid foundation in data structures, algorithms, and object-oriented programming.",
-      "Participated in hackathons and projects, applying academic knowledge to solve real-world problems.",
+      "Participated in projects, applying academic knowledge to solve real-world problems.",
       "Developed strong analytical and critical thinking skills through rigorous coursework and practical projects.",
       "Explored advanced topics like cloud computing, linear algebra, and software engineering principles.",
     ],
@@ -250,32 +250,32 @@ const experiences = [
 ];
 
 
-const testimonials = [
-  {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-];
+// const testimonials = [
+//   {
+//     testimonial:
+//       "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+//     name: "Sara Lee",
+//     designation: "CFO",
+//     company: "Acme Co",
+//     image: "https://randomuser.me/api/portraits/women/4.jpg",
+//   },
+//   {
+//     testimonial:
+//       "I've never met a web developer who truly cares about their clients' success like Rick does.",
+//     name: "Chris Brown",
+//     designation: "COO",
+//     company: "DEF Corp",
+//     image: "https://randomuser.me/api/portraits/men/5.jpg",
+//   },
+//   {
+//     testimonial:
+//       "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+//     name: "Lisa Wang",
+//     designation: "CTO",
+//     company: "456 Enterprises",
+//     image: "https://randomuser.me/api/portraits/women/6.jpg",
+//   },
+// ];
 
 const projects = [
   {
@@ -429,7 +429,7 @@ export {
   services,
   technologies,
   experiences,
-  testimonials,
+  // testimonials,
   projects,
   socials,
   heroTexts,
