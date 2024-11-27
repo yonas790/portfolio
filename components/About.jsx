@@ -56,7 +56,7 @@ function About() {
           ))}
         </div>
         <Link
-          href="document/yonas-tesera.pdf"
+          href="document/yonas-tesera-resume.pdf"
           target="_blank"
           rel="noreferrer"
           className="w-fit"
