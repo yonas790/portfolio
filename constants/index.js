@@ -279,6 +279,38 @@ const experiences = [
 
 const projects = [
   {
+    name: "YON-NAZ SHOP",
+    description:
+      "YON-NAZ SHOP is an e-commerce platform offering a seamless shopping experience, from managing orders to purchasing products. Built with React, Node.js, Mongodb, and Tailwind CSS, it features dynamic product listings, secure login, real-time cart management, and integrated checkout with payment processing, including support for Ethiopian Birr (ETB). Admins have full control over product inventory, order history, and promotions.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "nodejs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "redux toolkit",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "tailwind css",
+          color: "pink-text-gradient",
+        },
+      ],
+      
+    image: "/assets/projects/YON-NAZ-Shop.jpg",
+    source_code_link: "https://github.com/yonas790/frontend-ecommerce",
+    deployed_link: "https://yon-naz-shop.netlify.app/",
+  },
+  
+  {
     name: "Netflix Clone",
     description:
       "Netflix Clone is a movie streaming application inspired by Netflix, built using React, Firebase, TMDB API, and CSS. This project allows users to browse trending and top-rated movies, watch trailers, and add movies to their watchlist.",
