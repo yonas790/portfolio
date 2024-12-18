@@ -73,7 +73,7 @@ function Navbar() {
 								Yonas Tesera &nbsp;
 								<span className="lg:block hidden">
 									{" "}
-									| Fullstack Developer
+									| Software Developer
 								</span>
 							</p>
 						</Link>

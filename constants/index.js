@@ -450,9 +450,9 @@ const heroTexts = [
   500,
   "Freelancer",
   500,
-  "Full-Stack developer",
+  "Software developer",
   500,
-  "Backend developer",
+  "Backend Specialized",
   500,
 ];
 
