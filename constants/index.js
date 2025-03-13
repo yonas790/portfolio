@@ -170,28 +170,15 @@ const experiences = [
   },
   {
     title: "Backend Developer",
-    company_name: "",
+    company_name: "Askuala Link",
     icon: "/assets/company/gdsc-logo.svg",
     iconBg: "#E6DEDD",
-    date: "June 2023 - Present",
+    date: "Dec 2024 - Present",
     points: [
       "Streamlined server-side logic for secure, high-performance web applications.",
-      "Mastered backend frameworks such as Node.js, Express, Socket.IO, and Flask, implementing scalable architectures and real-time communication systems to build robust and efficient web applications.",
+      "Mastered backend frameworks such as Node.js, Express, Socket.IO, implementing scalable architectures and real-time communication systems to build robust and efficient web applications.",
       "Integrated third-party APIs, including payment gateways and real-time data services.",
       "Optimized database queries and schema designs using MySQL, Mongodb and Firestore on Firebase.",
-    ],
-  },
-  {
-    title: "Open Source Contributor",
-    company_name: "",
-    icon: "/assets/company/gdsc-logo.svg",
-    iconBg: "#E6DEDD",
-    date: "April 2023 - Present",
-    points: [
-      "Actively contributed to GitHub projects, collaborating with developers worldwide.",
-      "Improved code quality by organizing and modularizing components for better maintainability and scalability.",
-      "Created detailed project documentation to support team collaboration and ensure clear understanding of functionalities.",
-      "Participated in code reviews and discussions, gaining insights into best practices and design patterns.",
     ],
   },
   {
