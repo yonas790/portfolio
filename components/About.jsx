@@ -28,7 +28,12 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-        Hello! I&apos;m Yonas Tesera, a curious and driven Full Stack Developer with a passion for turning complex challenges into elegant solutions. With a solid grasp of JavaScript and TypeScript, I specialize in building dynamic front-end experiences using Tailwind CSS, while also mastering real-time communication through Socket.IO and efficient backend development with Flask and nodejs. I’ve built impactful projects. I also have experience with frameworks such as React, Node.js, and Tailwind CSS and state management libraries like Redux. My deep understanding of data structures and algorithms allows me to deliver scalable, high-performance applications.Driven by a love for problem-solving and continuous learning, I thrive in exploring new technologies and delivering high-quality, scalable solutions that make a difference.
+        Hello! I&apos;m Yonas Tesera, a curious and driven Software Developer 
+        with expertise in modern web technologies and full-stack development, I specialize in transforming ideas into scalable and efficient web applications, from design and development to deployment and optimization.
+
+I have a strong foundation in advanced programming concepts, including data structures, algorithms, software architecture, system design, and performance optimization. My experience spans across building high-performance applications, integrating security best practices, and optimizing backend operations.
+
+Skilles: React.js, Node.js, MySQL, Sequelize, MongoDB, AWS deployment, CDNs, JavaScript, C++, Java, Python, and I have deep expertise in software architecture, system design, and performance optimization. Whether it's developing front-end interfaces, creating scalable backend systems, or integrating security features, I aim to deliver robust, user-friendly solutions that are both efficient and secure.
           <br className="sm:block hidden" />
           Let&apos;s collaborate to bring your ideas to life!
         </div>
