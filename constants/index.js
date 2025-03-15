@@ -231,7 +231,7 @@ const experiences = [
       "Gained a solid foundation in data structures, algorithms, and object-oriented programming.",
       "Participated in projects, applying academic knowledge to solve real-world problems.",
       "Developed strong analytical and critical thinking skills through rigorous coursework and practical projects.",
-      "Explored advanced topics like cloud computing, linear algebra, and software engineering principles.",
+      "Explored advanced topics like cloud computing, Database Designs, Programming, and Software engineering principles.",
     ],
   },
 ];
