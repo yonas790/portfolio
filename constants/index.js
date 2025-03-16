@@ -209,11 +209,14 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "January 2023 - Present",
     points: [
-      "Built full-stack applications with MongoDB, Express, React, and Node.js, leveraging their seamless compatibility.",
-      "Enhanced application performance by refactoring codebases and optimizing MongoDB queries.",
-      "Designed CI/CD pipelines and deployed applications on platforms like render, Vercel, firebase and b4a.",
-      "Integrated advanced features like real-time notifications, role-based authentication, and analytics dashboards.",
-    ],
+      "Developed and deployed full-stack applications using MongoDB, Express, React, and Node.js, ensuring high performance and scalability.",
+      "Optimized database performance by designing efficient MongoDB schemas, indexing queries, and implementing caching with Redis.",
+      "Implemented secure authentication and authorization systems using JWT, OAuth, and role-based access control (RBAC).",
+      "Designed and integrated real-time features using WebSockets and Socket.IO, enhancing user interaction and engagement.",
+      "Deployed applications on cloud platforms such as AWS, Vercel, Firebase, and Render, automating deployment with CI/CD pipelines.",
+      "Enhanced API performance and scalability by implementing rate limiting, pagination, and efficient query handling.",
+      "Integrated third-party APIs, including payment gateways like Chapa, to support seamless transactions and e-commerce functionality."
+    ]
   },
   {
     title: "Problem-Solving Mentor",
