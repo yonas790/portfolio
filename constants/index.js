@@ -278,6 +278,40 @@ const experiences = [
 
 const projects = [
   {
+    name: "Askuala Link",
+    description:
+      "Askuala Link is a dynamic platform that provides comprehensive school management solutions tailored to meet the needs of schools of all sizes. Our platform is designed to enhance the efficiency and effectiveness of school administration while fostering seamless communication between educators, students, and parents.",
+      tags: [
+        {
+          name: "Backend Development",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "API Design",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "Real-Time Communication",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Payment Integration",
+          color: "purple-text-gradient",
+        },
+        {
+          name: "Database Optimization",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "Security Enhancements",
+          color: "pink-text-gradient",
+        },
+      ],
+    image: "/assets/projects/askuala.jpg",
+    source_code_link: "https://askualalink.com",
+    deployed_link: "https://askualalink.com",
+  },
+  {
     name: "YON-NAZ SHOP",
     description:
       "YON-NAZ SHOP is an e-commerce platform offering a seamless shopping experience, from managing orders to purchasing products. Built with React, Node.js, Mongodb, and Tailwind CSS, it features dynamic product listings, secure login, real-time cart management, and integrated checkout with payment processing, including support for Ethiopian Birr (ETB). Admins have full control over product inventory, order history, and promotions.",
