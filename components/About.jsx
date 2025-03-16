@@ -27,14 +27,15 @@ function About() {
         viewport={{ once: true, amount: 0.25 }}
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
-        <div>
+      <div>
         Hello! I&apos;m Yonas Tesera, a curious and driven Software Developer 
-        with expertise in modern web technologies and full-stack development, I specialize in transforming ideas into scalable and efficient web applications, from design and development to deployment and optimization.
+        with expertise in modern web technologies and full-stack development. I specialize in transforming ideas into scalable and efficient web applications, from design and development to deployment and optimization.
         I have a strong foundation in advanced programming concepts, including data structures, algorithms, software architecture, system design, and performance optimization. My experience spans across building high-performance applications, integrating security best practices, and optimizing backend operations.
-        Skilles: React.js, Node.js, MySQL, Sequelize, MongoDB, AWS deployment, CDNs, JavaScript, C++, Java, Python, and I have deep expertise in software architecture, system design, and performance optimization. Whether it's developing front-end interfaces, creating scalable backend systems, or integrating security features, I aim to deliver robust, user-friendly solutions that are both efficient and secure.
-          <br className="sm:block hidden" />
-          Let&apos;s collaborate to bring your ideas to life!
-        </div>
+        Skills: React.js, Node.js, MySQL, Sequelize, MongoDB, AWS deployment, CDNs, JavaScript, C++, Java, Python, and I have deep expertise in software architecture, system design, and performance optimization. Whether it's developing front-end interfaces, creating scalable backend systems, or integrating security features, I aim to deliver robust, user-friendly solutions that are both efficient and secure.
+        <br className="sm:block hidden" />
+        Let&apos;s collaborate to bring your ideas to life!
+      </div>
+
         <div className="w-fit break-words">
           <Link
             href="mailto:yoni2752@gmail.com"
