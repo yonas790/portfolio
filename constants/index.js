@@ -280,7 +280,7 @@ const projects = [
   {
     name: "Askuala Link",
     description:
-      "Askuala Link is a dynamic platform that provides comprehensive school management solutions tailored to meet the needs of schools of all sizes. Our platform is designed to enhance the efficiency and effectiveness of school administration while fostering seamless communication between educators, students, and parents.",
+      "Askuala Link is a dynamic platform that provides comprehensive school management solutions tailored to meet the needs of schools of all sizes. This platform is designed to enhance the efficiency and effectiveness of school administration while fostering seamless communication between educators, students, and parents.",
       tags: [
         {
           name: "Backend Development",
