@@ -162,11 +162,15 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "July 2023 - Present",
     points: [
-      "Pursuing Computer Science at Bahir Dar University, emphasizing hands-on development and innovation.",
-      "Designed and deployed dynamic web applications, including a feature-rich E-commerce platform with payment integration and admin controls, a Hospital Management System for operational efficiency, and a Netflix clone leveraging TMDB API for interactive content streaming. Collaborated on video conferencing applications and real-time facility management systems, emphasizing scalable architecture and user-friendly interfaces..",
-      "Skilled in creating scalable backend systems with RESTful APIs and advanced database management.",
-      "Demonstrated strong collaboration skills by working in agile teams and solving complex challenges.",
-    ],
+      "Pursuing Computer Science at Bahir Dar University, with a strong focus on backend development, system design, and performance optimization.",
+      "Developed and deployed scalable web applications, including an AI-powered learning platform, a membership system with payment integration, and a real-time chat application with encryption for secure communication.",
+      "Built and optimized RESTful APIs using Node.js and Express, integrating advanced database management techniques with MySQL and MongoDB to ensure efficiency and scalability.",
+      "Implemented security best practices, including data encryption and authentication mechanisms, to protect sensitive user information in web applications.",
+      "Worked as a backend developer at Askuala, contributing to the development of an educational system by enhancing performance, optimizing APIs, and improving security measures.",
+      "Designed and maintained Redis-based caching strategies to improve database performance and system responsiveness.",
+      "Led and mentored teams in software development projects, contributing to problem-solving sessions and guiding junior developers in building scalable applications.",
+      "Explored DevOps practices, focusing on CI/CD pipelines, server deployment, and infrastructure automation to enhance application deployment workflows."
+    ]    
   },
   {
     title: "Backend Developer",
@@ -175,11 +179,13 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Dec 2024 - Present",
     points: [
-      "Streamlined server-side logic for secure, high-performance web applications.",
-      "Mastered backend frameworks such as Node.js, Express, Socket.IO, implementing scalable architectures and real-time communication systems to build robust and efficient web applications.",
-      "Integrated third-party APIs, including payment gateways and real-time data services.",
-      "Optimized database queries and schema designs using MySQL, Mongodb and Firestore on Firebase.",
-    ],
+      "Developed and optimized backend services for an educational platform, enhancing system performance and scalability.",
+      "Implemented secure authentication and authorization mechanisms, including JWT and OAuth, to protect user data.",
+      "Integrated payment systems and automated membership management using Chapa, ensuring seamless transactions.",
+      "Utilized Redis for caching to improve response times and database efficiency in high-traffic scenarios.",
+      "Designed and maintained RESTful APIs with Express.js and Node.js, ensuring robust and scalable architecture.",
+      "Enhanced system security by encrypting and decrypting sensitive user data using CryptoJS."
+    ]    
   },
   {
     title: "React/Node.js Developer",
