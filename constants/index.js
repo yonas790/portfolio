@@ -238,11 +238,13 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "September 2022 - Present",
     points: [
-      "Gained a solid foundation in data structures, algorithms, and object-oriented programming.",
-      "Participated in projects, applying academic knowledge to solve real-world problems.",
-      "Developed strong analytical and critical thinking skills through rigorous coursework and practical projects.",
-      "Explored advanced topics like cloud computing, Database Designs, Programming, and Software engineering principles.",
-    ],
+      "Built a solid foundation in data structures, algorithms, and object-oriented programming, applying them to solve complex problems.",
+      "Contributed to real-world projects, demonstrating the ability to apply academic knowledge in practical scenarios.",
+      "Developed strong analytical and problem-solving skills through coursework, project development, and coding challenges.",
+      "Explored and applied advanced concepts in cloud computing, database design, software engineering principles, and modern programming paradigms.",
+      "Engaged in collaborative team projects, enhancing communication and teamwork skills while delivering successful results.",
+      "Deepened understanding of system design and performance optimization through hands-on development and research."
+    ]    
   },
 ];
 
