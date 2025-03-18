@@ -162,15 +162,14 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "July 2023 - Present",
     points: [
-      "Pursuing Computer Science at Bahir Dar University, with a strong focus on backend development, system design, and performance optimization.",
-      "Developed and deployed scalable web applications, including an AI-powered learning platform, a membership system with payment integration, and a real-time chat application with encryption for secure communication.",
-      "Built and optimized RESTful APIs using Node.js and Express, integrating advanced database management techniques with MySQL and MongoDB to ensure efficiency and scalability.",
-      "Implemented security best practices, including data encryption and authentication mechanisms, to protect sensitive user information in web applications.",
-      "Worked as a backend developer at Askuala, contributing to the development of an educational system by enhancing performance, optimizing APIs, and improving security measures.",
-      "Designed and maintained Redis-based caching strategies to improve database performance and system responsiveness.",
-      "Led and mentored teams in software development projects, contributing to problem-solving sessions and guiding junior developers in building scalable applications.",
-      "Explored DevOps practices, focusing on CI/CD pipelines, server deployment, and infrastructure automation to enhance application deployment workflows."
-    ]    
+      "Built AI learning, payment, and chat apps, E-commerce.",
+      "Developed RESTful APIs with Node.js, MySQL, and MongoDB.",
+      "Implemented security with encryption and authentication.",
+      "Backend developer at Askuala, optimizing APIs.",
+      "Used Redis caching for performance.",
+      "Led and mentored developers.",
+      "Explored DevOps, CI/CD, and automation."
+    ]
   },
   {
     title: "Backend Developer",
