@@ -342,33 +342,6 @@ const projects = [
     source_code_link: "https://github.com/yonas790/frontend-ecommerce",
     deployed_link: "https://yon-naz-shop.netlify.app/",
   },
-  
-  {
-    name: "Netflix Clone",
-    description:
-      "Netflix Clone is a movie streaming application inspired by Netflix, built using React, Firebase, TMDB API, and CSS. This project allows users to browse trending and top-rated movies, watch trailers, and add movies to their watchlist.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "orange-text-gradient",
-      },
-      {
-        name: "tmdb-api",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: "/assets/projects/Netflex.jpg",
-    source_code_link: "https://github.com/yonas790/Netflix-Amazon-API-Integration",
-    deployed_link: "https://yonas-netfx-movie-cloned.netlify.app/",
-  },
   {
     name: "EveryChat",
     description:
@@ -399,8 +372,6 @@ const projects = [
     source_code_link: "https://github.com/yonas790/chat-app.git",
     deployed_link: "https://yonz-everychat.onrender.com",
   },
-
-  
   {
     name: "Full stack clone of Amazon",
     description:
@@ -452,7 +423,33 @@ const projects = [
     image: "/assets/projects/Zoom.jpg",
     source_code_link: "https://github.com/yonas790/Zoom-clone",
     deployed_link: "https://zoomclone-la80v5nc.b4a.run/",
-  }
+  },
+  {
+    name: "Netflix Clone",
+    description:
+      "Netflix Clone is a movie streaming application inspired by Netflix, built using React, Firebase, TMDB API, and CSS. This project allows users to browse trending and top-rated movies, watch trailers, and add movies to their watchlist.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "tmdb-api",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: "/assets/projects/Netflex.jpg",
+    source_code_link: "https://github.com/yonas790/Netflix-Amazon-API-Integration",
+    deployed_link: "https://yonas-netfx-movie-cloned.netlify.app/",
+  },
 ];
 
 const socials = [
