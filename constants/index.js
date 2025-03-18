@@ -179,13 +179,14 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Dec 2024 - Present",
     points: [
-      "Developed and optimized backend services for an educational platform, enhancing system performance and scalability.",
-      "Implemented secure authentication and authorization mechanisms, including JWT and OAuth, to protect user data.",
-      "Integrated payment systems and automated membership management using Chapa, ensuring seamless transactions.",
-      "Utilized Redis for caching to improve response times and database efficiency in high-traffic scenarios.",
-      "Designed and maintained RESTful APIs with Express.js and Node.js, ensuring robust and scalable architecture.",
-      "Enhanced system security by encrypting and decrypting sensitive user data using CryptoJS."
-    ]    
+      "Developed RESTful APIs with Node.js and Express.js.",
+      "Optimized backend for performance and scalability.",
+      "Implemented JWT for security.",
+      "Integrated Chapa for payments and memberships.",
+      "Used Redis caching for efficiency.",
+      "Encrypted sensitive data with CryptoJS."
+    ]
+       
   },
   {
     title: "React/Node.js Developer",
