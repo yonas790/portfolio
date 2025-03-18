@@ -194,13 +194,14 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "March 2023 - Present",
     points: [
-      "Engineered highly interactive and reusable React.js components, optimizing performance and maintainability across projects.",
-      "Designed and implemented scalable RESTful APIs using Node.js and Express, ensuring seamless communication between frontend and backend systems.",
-      "Integrated authentication and authorization systems using JWT and OAuth, enhancing security in user management workflows.",
-      "Developed real-time applications with WebSockets and Socket.IO, enabling interactive features like live chat and notifications.",
-      "Leveraged Tailwind CSS and modern UI/UX principles to build responsive and visually appealing interfaces across multiple devices.",
-      "Optimized database queries and data fetching strategies for MySQL and MongoDB, improving backend efficiency and system scalability."
+      "Built reusable React.js components for performance and maintainability.",
+      "Developed scalable RESTful APIs with Node.js and Express.",
+      "Implemented JWT and OAuth for secure authentication.",
+      "Created real-time apps with WebSockets and Socket.IO.",
+      "Used Tailwind CSS for responsive and modern UI/UX.",
+      "Optimized MySQL and MongoDB queries for efficiency."
     ]
+    
   },
   {
     title: "MERN Stack Developer",
