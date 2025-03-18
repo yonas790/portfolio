@@ -210,14 +210,15 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "January 2023 - Present",
     points: [
-      "Developed and deployed full-stack applications using MongoDB, Express, React, and Node.js, ensuring high performance and scalability.",
-      "Optimized database performance by designing efficient MongoDB schemas, indexing queries, and implementing caching with Redis.",
-      "Implemented secure authentication and authorization systems using JWT, OAuth, and role-based access control (RBAC).",
-      "Designed and integrated real-time features using WebSockets and Socket.IO, enhancing user interaction and engagement.",
-      "Deployed applications on cloud platforms such as AWS, Vercel, Firebase, and Render, automating deployment with CI/CD pipelines.",
-      "Enhanced API performance and scalability by implementing rate limiting, pagination, and efficient query handling.",
-      "Integrated third-party APIs, including payment gateways like Chapa, to support seamless transactions and e-commerce functionality."
+      "Built and deployed full-stack apps with MERN stack.",
+      "Optimized MongoDB performance with indexing and Redis caching.",
+      "Implemented JWT, OAuth, and RBAC for security.",
+      "Added real-time features with WebSockets and Socket.IO.",
+      "Deployed apps on AWS, Vercel, Firebase, and Render.",
+      "Enhanced API scalability with rate limiting and pagination.",
+      "Integrated Chapa for seamless payments and e-commerce."
     ]
+    
   },
   {
     title: "Problem-Solving Mentor",
@@ -226,11 +227,12 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2023 - Present",
     points: [
-      "Conducted workshops and mentorship sessions on JavaScript, React, and backend development.",
-      "Helped peers troubleshoot issues in coding projects, emphasizing problem-solving techniques.",
-      "Explained complex concepts in simple terms, fostering a collaborative and learning-focused environment.",
-      "Encouraged knowledge sharing and team discussions to promote innovation and creativity.",
-    ],
+      "Led workshops on JavaScript, React, and backend development.",
+      "Mentored peers in troubleshooting and problem-solving.",
+      "Simplified complex concepts for better understanding.",
+      "Promoted knowledge sharing and team collaboration."
+    ]
+    
   },
   {
     title: "Computer Science Student",
