@@ -25,7 +25,7 @@ export default function App({ Component, pageProps }) {
 
 	const title = "Yonas | Portfolio ";
 	const description =
-		"Hello! I'm Yonas Tesera, a passionate web developer and problem solver. Welcome to my portfolio";
+		"Yonas Tesera is a Software Engineer and Full-Stack Web Developer specializing in React, Node.js, and modern web development. Explore my portfolio projects, skills, and software engineering expertise.";
 	const avatar =
 		"https://yonas-tesera.vercel.app/assets/avatar.png";
 	const url = "https://yonas-tesera.vercel.app/";
@@ -40,7 +40,7 @@ export default function App({ Component, pageProps }) {
 					name="viewport"
 					content="width=device-width, initial-scale=1.0"
 				/>
-				<meta name="keywords" content="Yonas Tesera, Software Developer, Web Developer, Full-Stack Developer, React Developer, Node.js Developer, Programming Projects, Developer Portfolio, Frontend Developer, Backend Developer, JavaScript Projects, Personal Branding, Software Engineering, Responsive Web Development, Modern Web Design, Developer Showcase" />
+				<meta name="keywords" content="Yonas Tesera, Yonas Portfolio, Software Engineer, DevOps Engineer, Software Developer, Web Developer, Full-Stack Developer, React Developer, Node.js Developer, Programming Projects, Developer Portfolio, Frontend Developer, Backend Developer, JavaScript Projects, Personal Branding, Software Engineering, Responsive Web Development, Modern Web Design, Developer Showcase" />
 				<meta property="og:title" content={title} />
 				<meta property="og:site_name" content={title}></meta>
 				<meta property="og:description" content={description} />
