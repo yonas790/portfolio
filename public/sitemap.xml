@@ -2,32 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yonas-tesera.vercel.app/</loc>
-    <lastmod>2025-01-06</lastmod>
+    <lastmod>2025-06-25</lastmod>
     <priority>1.0</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://yonas-tesera.vercel.app/#about</loc>
-    <lastmod>2025-01-06</lastmod>
+    <loc>https://yonas-tesera.vercel.app/about</loc>
+    <lastmod>2025-06-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yonas-tesera.vercel.app/#skills</loc>
-    <lastmod>2025-01-06</lastmod>
+    <loc>https://yonas-tesera.vercel.app/skills</loc>
+    <lastmod>2025-06-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yonas-tesera.vercel.app/#work</loc>
-    <lastmod>2025-01-06</lastmod>
+    <loc>https://yonas-tesera.vercel.app/work</loc>
+    <lastmod>2025-06-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yonas-tesera.vercel.app/#projects</loc>
-    <lastmod>2025-01-06</lastmod>
+    <loc>https://yonas-tesera.vercel.app/projects</loc>
+    <lastmod>2025-06-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yonas-tesera.vercel.app/#contact</loc>
-    <lastmod>2025-01-06</lastmod>
+    <loc>https://yonas-tesera.vercel.app/contact</loc>
+    <lastmod>2025-06-25</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
