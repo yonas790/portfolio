@@ -34,6 +34,7 @@ export default function App({ Component, pageProps }) {
 		<>
 			<Head>
 				<title>{title}</title>
+				<meta name="google-site-verification" content="Hn79VF8zVokdIZ9f3pZY5hppVcVLTUlwWAq_SXXW31E" />
 				<meta name="description" content={description} key="desc" />
 				<meta
 					name="viewport"
@@ -48,7 +49,6 @@ export default function App({ Component, pageProps }) {
 				<meta property="og:image:height" content="612" />
 				<meta property="og:url" content={url} />
 				<meta property="og:type" content="website" />
-
 				<meta property="twitter:image" content={avatar} />
 				<meta property="twitter:card" content="summary_large_image" />
 				<meta name="twitter:creator" content="@Yoniyyoo" />
