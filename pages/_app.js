@@ -23,9 +23,9 @@ export default function App({ Component, pageProps }) {
 		}
 	}, [loading]);
 
-	const title = "Yonas | Portfolio ";
+	const title = "Yonas Tesera ";
 	const description =
-		"Yonas Tesera is a Software Engineer and Full-Stack Web Developer specializing in React, Node.js, and modern web development. Explore my portfolio projects, skills, and software engineering expertise.";
+      "Yonas Tesera is a Software Engineer and Full-Stack Web Developer with a strong academic background in Computer Science. I specialize in backend development, microservices architecture, DevOps practices, and AI-driven solutions. Explore my portfolio showcasing scalable APIs, distributed systems, cloud deployments, and expertise in technologies like React, Node.js, and modern web engineering."
 	const avatar =
 		"https://yonas-tesera.vercel.app/assets/avatar.png";
 	const url = "https://yonas-tesera.vercel.app/";
@@ -44,16 +44,22 @@ export default function App({ Component, pageProps }) {
 				<meta property="og:title" content={title} />
 				<meta property="og:site_name" content={title}></meta>
 				<meta property="og:description" content={description} />
-				<meta property="og:image" content={avatar} />
 				<meta property="og:image:width" content="612" />
 				<meta property="og:image:height" content="612" />
 				<meta property="og:url" content={url} />
 				<meta property="og:type" content="website" />
-				<meta property="twitter:image" content={avatar} />
 				<meta property="twitter:card" content="summary_large_image" />
 				<meta name="twitter:creator" content="@Yoniyyoo" />
 				<meta property="twitter:title" content={title} />
 				<meta property="twitter:description" content={description} />
+
+				<meta property="og:image" content={avatar} />
+				<meta property="og:image:width" content="1200" />
+				<meta property="og:image:height" content="630" />
+				<meta name="image" content={avatar} />
+				<meta property="twitter:image" content={avatar} />
+				<meta name="twitter:card" content="summary_large_image" />
+
 
 				<link rel="canonical" href={url} />
 				<link
